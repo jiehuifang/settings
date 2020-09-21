@@ -40,7 +40,7 @@
                 "hidden": false,
                 "startingDirectory": "F:",
                 "fontFace": "JetBrainsMono Nerd Font",
-                "fontSize": 11,
+                "fontSize": 10,
                 "colorScheme": "One Half Dark",
                 "foreground": "#98FB98"
             },
@@ -52,7 +52,7 @@
                 "hidden": false,
                 "startingDirectory": "F:",
                 "fontFace": "JetBrainsMono Nerd Font",
-                "fontSize": 11,
+                "fontSize": 10,
                 "colorScheme": "One Half Dark",
                 "foreground": "#98FB98"
             },
