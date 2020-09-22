@@ -42,7 +42,9 @@
                 "fontFace": "JetBrainsMono Nerd Font",
                 "fontSize": 10,
                 "colorScheme": "One Half Dark",
-                "foreground": "#98FB98"
+                "foreground": "#98FB98",
+                "backgroundImage": "E:/background_1.jpg",
+                "backgroundImageOpacity": 0.5
             },
             {
                 // Make changes here to the cmd.exe profile.
@@ -54,7 +56,9 @@
                 "fontFace": "JetBrainsMono Nerd Font",
                 "fontSize": 10,
                 "colorScheme": "One Half Dark",
-                "foreground": "#98FB98"
+                "foreground": "#98FB98",
+                "backgroundImage": "E:/background_1.jpg",
+                "backgroundImageOpacity": 0.5
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
